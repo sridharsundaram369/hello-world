@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> APJ Sridhar Sundaram Thankyou, Happy Learning </h1>
+   <h1> Aruperumjothi Babaji Sridhar Sundaram Thankyou, Happy Learning </h1>
 
   
 </form>
