@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thiruchitrambalam Aruperumjothi Autperumjothi Thani perum karunai Arutperumjothi Ellam uyirukkum inbutru vaazhga Babaji </h1>
+   <h1> Om Thiruchitrambalam Aruperumjothi Autperumjothi Thani perum karunai Arutperumjothi Ellam uyirukkum inbutru vaazhga Babaji </h1>
 
   
 </form>
